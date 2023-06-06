@@ -10,6 +10,10 @@ Dashboard with Chart Elements
 Side Menu within Dockable Side Bar
 Etc.
 
+#How to migrate databse :
 
+step1:go to nuget console
+step2: run command Add-Migration "init"
+step3:update databse
 
  
